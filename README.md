@@ -30,5 +30,5 @@ To explore Adventure Works datasets to uncover key performance metrics, optimize
 - Final Documentation: Added insights, recommendations, and dashboard overviews to the project README.
 
   ## Dashboard
-  ![Uploading Adventure Works Dashboard.png…]()
+  
 
