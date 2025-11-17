@@ -1,2 +1,3 @@
-# Adventure_Works_Data_Analysis
-Analyzed Adventure Works sales data using SQL, Excel, Power BI and Tableau to uncover trends, customer behavior, and product performance, delivering interactive dashboards, actionable insights, and data-driven recommendations for business growth.
+# Adventure-Works-Data-Analysis
+To explore Adventure Works datasets to uncover key performance metrics, optimize sales insights, and present data-driven findings through clear, interactive visualizations.
+
