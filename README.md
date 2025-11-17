@@ -2,7 +2,7 @@
 To explore Adventure Works datasets to uncover key performance metrics, optimize sales insights, and present data-driven findings through clear, interactive visualizations.
 
 ## Dataset Used
-- <a href="https://github.com/Adnaan08-Analyst/Adventure_Works_Data_Analysis/blob/main/Adventure%20works%20merged.xlsx"</a>
+- Datased Used  <a href="https://github.com/Adnaan08-Analyst/Adventure_Works_Data_Analysis/blob/main/Adventure%20works%20merged.xlsx"> View</a>
 
 ## Questions 
 - What is the total revenue generated across different products and regions?
@@ -29,4 +29,6 @@ To explore Adventure Works datasets to uncover key performance metrics, optimize
 - Derived Insights: Summarized patterns, identified improvement areas, and highlighted business opportunities.
 - Final Documentation: Added insights, recommendations, and dashboard overviews to the project README.
 
-  
+  ## Dashboard
+  ![Uploading Adventure Works Dashboard.png…]()
+
