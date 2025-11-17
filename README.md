@@ -30,5 +30,11 @@ To explore Adventure Works datasets to uncover key performance metrics, optimize
 - Final Documentation: Added insights, recommendations, and dashboard overviews to the project README.
 
   ## Dashboard
+  <img width="1873" height="951" alt="Adventure Works Dashboard" src="https://github.com/user-attachments/assets/8474dcf3-e155-4651-ae8b-9f0606425f79" />
+
+
+
+
+
   
 
