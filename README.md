@@ -16,5 +16,17 @@ To explore Adventure Works datasets to uncover key performance metrics, optimize
 - How does discounting impact revenue and profit?
 - What are the top KPIs influencing overall business performance?
 
-  
+- Dashboard Interaction <a href="https://github.com/Adnaan08-Analyst/Adventure_Works_Data_Analysis/blob/main/adventure%20works.pbix">View Dahboard</a>
+
+## Process
+- Imported Dataset: Loaded Adventure Works data into SQL , Excel , Tableau and Power BI for analysis.
+- Validated Data: Checked schema, column formats, and ensured consistency across multiple tables.
+- Cleaned Data: Removed errors, handled blanks, corrected mismatched types, and standardized categories.
+- Prepared Model: Built star-schema relationships to support efficient reporting and KPI calculations.
+- Performed Analysis: Used queries and scripts to explore sales trends, customer behavior, and product insights.
+- Calculated KPIs: Generated metrics like total sales, profit, AOV, growth rate, and product contribution.
+- Developed Dashboards: Designed Power BI visualizations to present findings clearly and interactively.
+- Derived Insights: Summarized patterns, identified improvement areas, and highlighted business opportunities.
+- Final Documentation: Added insights, recommendations, and dashboard overviews to the project README.
+
   
